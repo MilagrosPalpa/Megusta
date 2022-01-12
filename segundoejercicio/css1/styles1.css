@@ -1,0 +1,227 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+
+.header{
+    color:white;
+    background-color: black;
+    height: 20px;
+    width: 500px;
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;;
+}
+
+.header1{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    padding-right: 200px;
+
+}
+.tarjetaInformacion1{
+    border: 2px solid black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    height: 100px;
+    width: 300px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 210px;
+    bottom:208px;
+}
+
+.likes{
+    display: flex;
+    flex-direction: row;
+}
+.titulo1{
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 12px;
+    margin-bottom: 1px;
+    padding-left: 20px;
+
+}
+
+.noun{
+    font-size: 15px;
+    font-weight: 20px;
+    padding-left: 20px;
+    padding-top: 28px;
+    padding-right: 20px;
+
+}
+
+.boton1{
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(235, 202, 112);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    position: relative;
+    top: 15px;
+    left: 94px;
+    cursor: pointer;
+
+}
+
+.number{
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+    left: 65px;
+}
+
+.tarjetaInformacion2{
+    border: 2px solid black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    height: 100px;
+    width: 300px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 210px;
+    bottom:208px;
+}
+
+.likes2{
+    display: flex;
+    flex-direction: row;
+}
+.titulo2{
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 12px;
+    margin-bottom: 1px;
+    padding-left: 20px;
+
+}
+
+.noun2{
+    font-size: 15px;
+    font-weight: 20px;
+    padding-left: 20px;
+    padding-top: 28px;
+    padding-right: 20px;
+
+}
+
+.boton2{
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(235, 202, 112);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    position: relative;
+    top: 15px;
+    left: 60px;
+    cursor: pointer;
+
+}
+
+.number2{
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+
+.tarjetaInformacion3{
+    border: 2px solid black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    height: 100px;
+    width: 300px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 210px;
+    bottom:208px;
+}
+
+.likes3{
+    display: flex;
+    flex-direction: row;
+}
+.titulo3{
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 12px;
+    margin-bottom: 1px;
+    padding-left: 20px;
+
+}
+
+.noun3{
+    font-size: 15px;
+    font-weight: 20px;
+    padding-left: 20px;
+    padding-top: 28px;
+    padding-right: 20px;
+
+}
+
+.boton3{
+    width: 55px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(235, 202, 112);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    position: relative;
+    top: 15px;
+    left: 102px;
+    cursor: pointer;
+
+}
+
+.number3{
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+    left: 75px;
+}
+
+.tarjetaInformacion0{
+    border: 2px solid black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    height: 180px;
+    width: 180px;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    
+}
+
+.noun0{
+    text-align: center;
+}
+
+.titulo0{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.foto{
+    width: 80px;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+    margin-bottom: 20px;
+}
